@@ -1,0 +1,23 @@
+Data - Information
+
+Data can be of two types
+1) Structured data  -- data arranged in rows and coloumns ex:tables
+2) Semi structured data -- Predefined formats, Json
+3) Unstructered data -- No table format, no predefined format ex:audio
+
+Data types: 
+Text - (Name, Gender, Adddress, Email)
+Number - (Age, Salary, Marks, Date)
+
+
+DataSet : data arranged in rows, coloumns 
+Database : collection of datasets/tables
+
+Analysis : 
+analysing individual coloumns, multiple coloumns, rows and performing mathematical calculations about the data
+
+Insights: drawing conclusions about the data
+
+Data analysis: deriving meaningful insights from the data
+Data analytics: data analysis + statistics (data analysis using statistics)
+Data science: data analytics + computer science (data analytics & computer science)
