@@ -1,0 +1,38 @@
+execution order of the query  (create, select, where, group by, having, order by)
+aggregation functions :  (count, sum, min, max, avg)
+
+
+given a table of movies
+--> super hit movies of sukumar
+ans>   select count(moviename) from movies where director='Sukumar' and status="Superhit"
+
+--> display the horror movies acted by maheshbabu and available in amazon prime 
+ans> select moviename from movies where actor="maheshbabu" adn ott="amazon prime"
+
+--> how many netflix availble movies got rating less than 5 and got nandhi award
+ans> select count(movie_name) from movies where rating<5 and ott="netflix" and nandhi=1
+
+--> select all the movies available in amazon,aha,netflix
+ans> select movie_name from movies where ott="amazon" or ott="aha" or ott="netflix"
+ans> select movie_name from movies where ott in ('aha','amazon',netflix')
+
+--> extract all the movie names staring with letter A
+ans> select * from movies where movie_name like 'A%'
+
+--> extract 5 letter names ending with 'R'
+ans> select movie_name from movies where movie_name like '____R'
+
+--> extract movie_name which start with vowels
+ans> select movie_name from movies where movie_name like 'A%' or movie_name like 'E%' or  movie_name like 'I%' or  movie_name like 'O%' or  movie_name like 'U%'
+
+--> extract movie_name which do not start with vowels
+ans> select movie_name from movies where movie_name not like 'A%' and 'E%' and  movie_name not like  'I%' and  movie_name not like  'O%' and  movie_name not like  'U%'
+
+--> extract how many movies released in the year 2020 and available in Aha and Netflix
+ans> select count(movie_name) from movies where RDate>= '2020-01-01' and RDate <='2020-12-31' and ott in('netflix','aha')
+ans> select count(movie_name) from movies where RDate like '%-%-2020' or RDate like '2020%' and ott in('netflix','aha')
+ans> select count(movie_name) from movies where RDate between ('2020-01-01' and '2020-12-31') and ott in('netflix','aha')
+ans> select count(movie_name) from movies where year(RDate)=2020 and ott in('netflix','aha')
+
+
+
