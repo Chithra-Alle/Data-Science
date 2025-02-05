@@ -1,0 +1,44 @@
+let us now understand the key differences between group by and having
+
+GROUP BY : to aggregate
+
+1) Display average salary by gender
+ans> select gender, avg(salary) from employees gorup by gender
+
+2) Extract Maximum salaries by dept for chennai employees
+ans> select dept,max(salary) from employees where location="chennai" group by dept
+
+3) Display total no. of superhit family movies directed by SUkumar available in each ott
+ans> select ott, count(*) from employees where status="Superhit" and type="family" and director="Sukumar" group by ott
+
+Having : To filter the data
+order (group by, having)
+HAVING is used only with GROUP BY" (but GROUP BY can be used without HAVING)
+
+1) extract cities total salary is more than 15,00,000
+ans> select city,sum(salary) from employees group by city having sum(salary) > 15,00,000
+
+2) Display the otts in which more than 5 rajamouli directed movies available
+ans> select ott, count(*) from movies where director = 'Rajamouli' group by ott having count(movie_name)>5
+
+3) Display the directors who had only one flop movie
+ans> select director from employees where status='flop' group by director having count(*)=1
+
+given a table named cricketers
+4) Display the cricketers who didn't make century in any match
+ans>  select player, max(runs) from cricketers group by player having max(runs)<100
+ans> select player, count(*) from cricketers where runs>100 group by player having count(*) = 0 
+
+
+Order by : Arranging the data by asc, desc
+# ORDER BY should always appear after SELECT, WHERE, GROUP BY, and HAVING.
+SELECT movie_name, rating FROM movies WHERE rating > 7 ORDER BY rating DESC;
+
+# You can sort by multiple columns. The sorting will happen in order of priority.
+SELECT movie_name, director, rating FROM movies ORDER BY rating DESC, director ASC;
+if rating is same then looks at second priority, otherwise it ignores second condition
+
+# Instead of column names, you can use their position number in SELECT.
+SELECT movie_name, rating FROM movies ORDER BY 2 DESC;  -- Sorts by the second column (rating) in descending order
+
+
