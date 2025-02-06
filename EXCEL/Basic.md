@@ -27,13 +27,13 @@
 - If you select more than one cell then it is called as Range of Cells
 ## What are we going to learn?
 *1. Filtering  - completed - explore it* <br>
-*2. Sorting(arranging data in order)    - completed - explore it**
-*3. Conditional Formatting**
-*4. Pivot Table**
-*5. Text to coloumns**
-*6. Data Validation**
-*7. Functions & Formulas**
-*8. Charts & Shortcuts**
+*2. Sorting(arranging data in order)    - completed - explore it* <br>
+*3. Conditional Formatting* <br>
+*4. Pivot Table* <br>
+*5. Text to coloumns* <br>
+*6. Data Validation* <br>
+*7. Functions & Formulas* <br>
+*8. Charts & Shortcuts* <br>
 
 
 
