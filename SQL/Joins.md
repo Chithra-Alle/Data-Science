@@ -43,5 +43,5 @@ Combining 2 or more tables is known as joins
 
 ## Full Join = (Right Join + Left Join) - Inner Join
 
-![Joins] (https://i.pinimg.com/736x/52/71/64/5271644b8c3db314b5830d902db361d9.jpg)
+![Joins](https://i.pinimg.com/736x/52/71/64/5271644b8c3db314b5830d902db361d9.jpg)
 
