@@ -26,7 +26,7 @@
 
 - If you select more than one cell then it is called as Range of Cells
 ## What are we going to learn?
-*1. Filtering  - completed - explore it**
+*1. Filtering  - completed - explore it* \br
 *2. Sorting(arranging data in order)    - completed - explore it**
 *3. Conditional Formatting**
 *4. Pivot Table**
