@@ -34,10 +34,12 @@ Combining 2 or more tables is known as joins
 | 4     | 65         |
 | 5     | 67         |
 
-Inner Join -- 4
-Left Join  -- 5
-Right Join -- 5
-Full Join  -- 6
+- Inner Join -- 4
+- Left Join  -- 5
+- Right Join -- 5
+- Full Join  -- 6
+
+
 
 <div style="border: 2px solid black; padding: 10px; display: inline-block;">
 $$
