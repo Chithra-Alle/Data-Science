@@ -41,9 +41,10 @@ Combining 2 or more tables is known as joins
 
 
 
-<div style="border: 2px solid black; padding: 10px; display: inline-block;">
+<div style="border: 2px solid black; padding: 10px; display: inline-block; text-align: center;">
 $$
-Full Join  = (Right Join  +  Left Join ) - Inner Join
+\text{Full Join} = (\text{Right Join} + \text{Left Join}) - \text{Inner Join}
 $$
 </div>
+
 
