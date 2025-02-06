@@ -1,20 +1,20 @@
 # Basics of Excel
--wps is like excel (99%)
--top is called ribbon
--middle is called spreadsheet
+- wps is like excel (99%)
+- top is called ribbon
+- middle is called spreadsheet
 
 
--Windows + D =  Go to Desktop
--Cntrl + C = Copy
--Cntrl + V = Paste
--Cntrl + Z = Undo
--Cntrl + Y = Redo
--Cntrl + N = Open a new window / File
--Cntrl + A = Select All
--Alt A T or Alt D F F = for filter options
--Alt A S S = for sorting  - apllicable for multiple column (Use direct sort option(when filtering--> Alt A T) for Single coloumn)
--Alt + Tab = To navigate among multiple windows
--Ctrl + S = Save the file
+- Windows + D =  Go to Desktop
+- Cntrl + C = Copy
+- Cntrl + V = Paste
+- Cntrl + Z = Undo
+- Cntrl + Y = Redo
+- Cntrl + N = Open a new window / File
+- Cntrl + A = Select All
+- Alt A T or Alt D F F = for filter options
+- Alt A S S = for sorting  - apllicable for multiple column (Use direct sort option(when filtering--> Alt A T) for Single coloumn)
+- Alt + Tab = To navigate among multiple windows
+- Ctrl + S = Save the file
 
 
 
