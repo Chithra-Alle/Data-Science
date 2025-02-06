@@ -45,3 +45,25 @@ Combining 2 or more tables is known as joins
 
 ![Joins](https://i.pinimg.com/736x/52/71/64/5271644b8c3db314b5830d902db361d9.jpg)
 
+## Example
+Table A - 20 records
+Table B - 50 records
+Common  - 5 records
+- Inner  5
+- Left   20
+- Right  50
+- Full Join   65
+- Cross Join   1000
+
+
+## Example 
+Table A - 50 records
+Table B - 100 records
+| Type of Join| MIN  | MAX |
+|:-------:|:-------:|:-------:|
+| Inner Join| 0 records|max-> 50 records|
+|Left Join | 50 records | 50 records |
+| Right Join | 100 records | 100 records |
+| Full Join |     | 150 records |
+| Cross Join | 1000 |   |
+
