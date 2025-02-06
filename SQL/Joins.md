@@ -1,7 +1,7 @@
-#Joins  🛩️🛩️
+# Joins  🛩️🛩️
 Combining 2 or more tables is known as joins
 
-##Types of Joins
+## Types of Joins
 ### Inner Join 
   It gives the matching columns from both the tables
 ### Outer Join
