@@ -17,7 +17,7 @@ Combining 2 or more tables is known as joins
    A SELF JOIN is a join where a table is joined with itself, treating it as two separate tables using aliases.
 
 ## Example
-##Table A
+## Table A
 | ID    |   English  |
 |:-----:|:----------:|
 | 1     |    30      |
@@ -25,7 +25,7 @@ Combining 2 or more tables is known as joins
 | 3     | 56         |
 | 4     | 56         |
 
-##Table B
+## Table B
 | ID    |   Maths    |
 |:-----:|:----------:|
 | 2     |    36      |
