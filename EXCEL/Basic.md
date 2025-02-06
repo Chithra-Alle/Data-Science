@@ -18,22 +18,22 @@
 
 
 
--Rows or Observations or Tuples or Records
--COlumns or Fields or Attributes or Variables or Metrics
+- Rows or Observations or Tuples or Records
+- COlumns or Fields or Attributes or Variables or Metrics
 
--Max Rows 1048576 -> 2^20
--Max Columns 16384 -> 2^14
+- Max Rows 1048576 -> 2^20
+- Max Columns 16384 -> 2^14
 
-If you select more than one cell then it is called as Range of Cells
+- If you select more than one cell then it is called as Range of Cells
 ## What are we going to learn?
-**1. Filtering  - completed - explore it**
-**2. Sorting(arranging data in order)    - completed - explore it**
-**3. Conditional Formatting**
-**4. Pivot Table**
-**5. Text to coloumns**
-**6. Data Validation**
-**7. Functions & Formulas**
-**8. Charts & Shortcuts**
+*1. Filtering  - completed - explore it**
+*2. Sorting(arranging data in order)    - completed - explore it**
+*3. Conditional Formatting**
+*4. Pivot Table**
+*5. Text to coloumns**
+*6. Data Validation**
+*7. Functions & Formulas**
+*8. Charts & Shortcuts**
 
 
 
