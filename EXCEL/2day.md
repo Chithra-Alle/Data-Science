@@ -1,13 +1,13 @@
 
-Shift + F11 = Insert new sheet
-Alt E L = Delete a sheet
-Shift + Space = select row
-Cntrl + Space = select column
-Cntrl + Shift + (+) = Insert a row or column (first select one of above 2)
-Cntrl + Arrows = Go to extreme ends of the data
-Cntrl + Shift + Arrows = Select to the extreme end
-Cntrl + Home = Go to first cell
-Cntrl + End = Go to end of the data
+- Shift + F11 = Insert new sheet
+- Alt E L = Delete a sheet
+- Shift + Space = select row
+- Cntrl + Space = select column
+- Cntrl + Shift + (+) = Insert a row or column (first select one of above 2)
+- Cntrl + Arrows = Go to extreme ends of the data
+- Cntrl + Shift + Arrows = Select to the extreme end
+- Cntrl + Home = Go to first cell
+- Cntrl + End = Go to end of the data
 
 ## FILTERING IN EXCEL = WHERE IN SQL
 
