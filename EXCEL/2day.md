@@ -29,7 +29,7 @@ cntrl + v = formats,formulas, values
 - Paste special values transpose = Alt E S V E
 
 
-#Conditional Formatting
+# Conditional Formatting
 ### formatting data based on conditioning is conditional formatiing
 Alt + H + L + H 
 
