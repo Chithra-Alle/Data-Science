@@ -16,21 +16,21 @@
 ## PIVOT TABLE IN EXCEL = GROUP BY IN  SQL
 PIVOT GENERALLY MEANS VERY IMPORTANT
 
-###ALT + N + V + T = TO SUMMARIZE THE DATA (SUMMARY - CALCULATING MAX,MIN,AVG,COUNT,SUM)
+### ALT + N + V + T = TO SUMMARIZE THE DATA (SUMMARY - CALCULATING MAX,MIN,AVG,COUNT,SUM)
 
 
 ## CREATING A SHEET
 cntrl + v = formats,formulas, values
 
 ## Interview questions
-Paste special format =  Alt E S T 
-Paste special values = Alt E S V
-Paste special formulas = Alt E S F
-Paste special values transpose = Alt E S V E
+- Paste special format =  Alt E S T 
+- Paste special values = Alt E S V
+- Paste special formulas = Alt E S F
+- Paste special values transpose = Alt E S V E
 
 
 #Conditional Formatting
-formatting data based on conditioning is conditional formatiing
+### formatting data based on conditioning is conditional formatiing
 Alt + H + L + H 
 
 ## What is the difference between pecentile and percentage
