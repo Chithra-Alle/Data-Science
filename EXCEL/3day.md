@@ -144,3 +144,10 @@ Q: Display if 'Selected' if the interview marks greater than 20, 'Hold' if the i
 #### if any function gives error and not lookin good to see
 use the below syntax
 - if(error(Search(A1,B2)),0)
+
+
+### Interveiw Question
+- Count, CountA, CountBlack
+- Count --> Count(A1:8) --> Counts numbers
+- countA --> Count(A1:8) --> Counts other than blanks
+- CountBlanck --> Count(A1:8) --> Count blanks
