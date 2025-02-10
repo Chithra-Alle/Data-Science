@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38ba222c-613b-418a-8f28-b0a0d2b75c6f)# Functions and Formulas
+# Functions and Formulas
 Very Important, the most asked questions in Interviews
 #### Difference between Functions and FOrmulas
 - Function - Repetitive Action / Repetitive Block of Code
@@ -18,8 +18,7 @@ A. PRE - DEFINED FUNCTIONS
 | Name | Upper | Lower|Proper|
 |:......:|:.......:|:....:|:.....:|
 | ChiThRa|CHITHRA|chithra|Chithra|
-| 45|67|98|
-| 09|36|87|
+
 ### One character 
 #### UPPER 
 Converts to Upper case letter UPPER()
