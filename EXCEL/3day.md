@@ -18,6 +18,7 @@ A. PRE - DEFINED FUNCTIONS
 | Name | Upper | Lower | Proper |
 |:......:|:.......:|:....:|:.....:|
 | ChiThRa|CHITHRA|chithra|Chithra|
+| ChARAn | CHARAN | charan | Charan|
 
 ### One character 
 #### UPPER 
