@@ -16,7 +16,7 @@ A. PRE - DEFINED FUNCTIONS
 5. Date Functions (YEAR,MONTH,DATE,DATEDIFF etc)
 
 | Name | Upper | Lower | Proper |
-|:......:|:.......:|:....:|:.....:|
+|:---:|:---:|:---:|:---:|
 | ChiThRa|CHITHRA|chithra|Chithra|
 | ChARAn | CHARAN | charan | Charan|
 
