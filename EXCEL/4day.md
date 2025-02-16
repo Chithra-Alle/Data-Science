@@ -18,7 +18,4 @@ Drawbacks of LookUp
 
 
 ### Data validation Template
-| Name|:----:|
-|Pan Num|:----:|
-|Adhar NUm|:----:|
-|State|:------:|
+- Alt D L (will open the data validation dialogue)
