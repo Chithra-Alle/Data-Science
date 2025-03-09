@@ -1,4 +1,4 @@
-
+# day 2
 - Shift + F11 = Insert new sheet
 - Alt E L = Delete a sheet
 - Shift + Space = select row
